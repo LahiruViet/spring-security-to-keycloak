@@ -31,10 +31,11 @@
 - ng-openapi-gen
 - @auth0/angular-jwt
 - keycloak-js
+- nginx
 
 ### Deployment
 
 - ci/cd pipeline
 - github action
 - github secret and variables
-- nginx
+- vps
